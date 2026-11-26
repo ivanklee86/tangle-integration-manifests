@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: same-repo-pinned-branch
 data:
-  greeting: hello
+  greeting: hello, world

@@ -4,8 +4,7 @@
     kind: 'ConfigMap',
     metadata: { name: 'tanka-fixture' },
     data: {
-      greeting: 'hello',
-      removed: 'soon',
+      greeting: 'hello, world',
     },
   },
 }

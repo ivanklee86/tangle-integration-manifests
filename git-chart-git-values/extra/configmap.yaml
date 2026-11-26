@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: git-chart-extra-fixture
 data:
-  extra: "a"
+  extra: "b"
